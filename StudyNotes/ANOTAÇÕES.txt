@@ -1,0 +1,29 @@
+AULA SOBRE HTML :
+
+Tags aprendidas:
+	<blockquote> = citação - depende o texto do paragrafo normal, jogando ao centro.
+	<u> = underline
+	<mark> = marcar texto
+	<a> = ancora de navegação - 
+		atributo dentro de <a> =
+		 targed="" que referencia como a navegação se dará através de 
+			"self" (nele mesmo) 
+			"blank" (em outra aba)
+		title ="" que quando o mouse passado em cima do link aparece uma mensagem em balãozinho
+		"# + identificador" que faz uma ancora para algo dentro da prorpia pagina / *importante que o local de linkagem possua um ID para que a ancora funcione.
+
+LINKS UTEIS:
+
+Documentação sobre html:
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element [MOZILLA]
+https://www.w3schools.com/tags/ref_attributes.asp [W3SCHOOL]
+
+
+TAGS OBRIGATORIAS
+feitas
+**<h1> a <h6>**, **<p>**,**<strong>**,**<ul>**, **<li>**, **<a>**, **<hr>**, <smal>, <i>, <blockquote>
+ <u>, <mark>,  <sup>, 
+
+
+
+
